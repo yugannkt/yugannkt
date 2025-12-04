@@ -1,1 +1,1 @@
-<h1 align="center">Hi 👋, I'm Yugan Nithish Kumar</h1>
+<h1 align="center">Hi 👋, I'm Yugan a.k.a Mrbot</h1>
