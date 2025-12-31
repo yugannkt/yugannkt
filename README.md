@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&center=true&vCenter=true&width=600&lines=Yugan+Nithish+Kumar" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&center=true&vCenter=true&width=600&lines=Yugan+N+K" />
 </p>
 
 <h3 align="center">DevOps Engineer | Backend Engineer</h3>
